@@ -1,0 +1,10 @@
+Needle roller thrust bearings 25 42 2
+w LS 2542                     25 42 3
+w AS 2542                     25 42 1
+
+total
+25 42 6
+
+
+https://www.skf.com/group/products/bearings-units-housings/roller-bearings/needle-roller-thrust-bearings/ndl-rllr-and-cage-thrust-assmbl/index.html?designation=AXK%202542
+
